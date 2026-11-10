@@ -2,7 +2,7 @@
 {"id":"essence-everywhere","title":"Every project tells its essence","status":"open","note":"Each project of the commons with its idea, path, workings and work.","opened":"2026-11-10"}
 {"id":"essence-format","title":"A language for it","status":"done","note":"ocoeco's specification, section 11: the idea, milestones and workings tables.","opened":"2026-11-10"}
 {"id":"essence-idea-drawn","title":"The idea drawn as an article","status":"done","note":"ocoeco-engine shows a project's idea as a piece of writing to read.","opened":"2026-11-10"}
-{"id":"essence-measure","title":"How completely a project tells its essence","status":"in-progress","note":"Four marks on every project: its idea written, its path set, every step served, its work visible.","opened":"2026-11-10"}
+{"id":"essence-measure","title":"How completely a project tells its essence","status":"done","note":"Four marks on every project's Essence page: its idea written, its path set, every step served, its work visible.","opened":"2026-11-10"}
 {"id":"essence-method","title":"The method, written","status":"done","note":"ESSENCE.md: the four questions, how to answer each, the test of a good answer.","opened":"2026-11-10"}
-{"id":"essence-page","title":"The whole chain on one page","status":"in-progress","note":"The Essence page: why, what, how and now, each flowing into the next, for every project and lens.","opened":"2026-11-10"}
+{"id":"essence-page","title":"The whole chain on one page","status":"done","note":"Drawn by ocoeco-engine: a project lands on its Essence page - why, what, how, now, down one line.","opened":"2026-11-10"}
 {"id":"essence-self","title":"It describes itself","status":"done","note":"This repository's idea, path and workings are written with the method alone.","opened":"2026-11-10"}
