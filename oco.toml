@@ -1,0 +1,19 @@
+# This repository's mark: how it fits the Open Commons Observatory's picture.
+schema = 1
+
+[project]
+id = "creation-guidelines/essence-oco"
+name = "Essence: how to say why and how - of anything"
+title = "Essence"
+kind = "canon"
+parent = "open-commons-observatory"
+
+[exports]
+idea = "data/idea.json"
+workings = "data/workings.json"
+backlog = "data/backlog.json"
+milestones = "data/milestones.json"
+session_log = "data/session_log.json"
+activity = "oco/gathered/activity.json@oco-data"
+releases = "oco/gathered/releases.json@oco-data"
+ci = "oco/gathered/ci.json@oco-data"

@@ -1,0 +1,5 @@
+{"id":"es-drawn","subject":"essence","ord":3,"title":"Drawn on one page","horizon":"working","readiness":6,"criteria":"backlog:essence-idea-drawn backlog:essence-page","why":"A chain read in four tabs is not seen."}
+{"id":"es-everywhere","subject":"essence","ord":5,"title":"Every project tells its essence","horizon":"ongoing","readiness":9,"criteria":"backlog:essence-everywhere","why":"The commons, readable by anyone."}
+{"id":"es-language","subject":"essence","ord":2,"title":"A language for it","horizon":"working","readiness":5,"criteria":"backlog:essence-format","why":"So the four answers are written the same way everywhere."}
+{"id":"es-measured","subject":"essence","ord":4,"title":"Measured for every project","horizon":"perfection","readiness":7,"criteria":"backlog:essence-measure backlog:essence-check","why":"What is not checked is not kept."}
+{"id":"es-written","subject":"essence","ord":1,"title":"Written, and able to describe itself","horizon":"working","readiness":3,"criteria":"backlog:essence-method backlog:essence-self","why":"A method only in conversation is not a method."}
