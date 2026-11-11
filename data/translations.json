@@ -11,3 +11,15 @@
 {"id":"idea:06-limit:text:ru","table":"idea","row":"06-limit","column":"text","lang":"ru","text":"Оно не сделает работу хорошей. Оно показывает, знает ли работа, для чего она. И требует честности, которую метод не может обеспечить сам: доказательство можно выбрать плохо.","by":"machine"}
 {"id":"idea:07-start:heading:ru","table":"idea","row":"07-start","column":"heading","lang":"ru","text":"Где мы сейчас","by":"machine"}
 {"id":"idea:07-start:text:ru","table":"idea","row":"07-start","column":"text","lang":"ru","text":"Метод записан, и этот проект описывает сам себя с его помощью. Обсерватория рисует всю цепь проекта на одной странице; мера того, насколько полно каждый проект рассказывает свою суть, строится.","by":"machine"}
+{"id":"workings:w-check:how:ru","table":"workings","row":"w-check","column":"how","lang":"ru","text":"Читает репозиторий так, как его прочтут; сообщает, чего его сути ещё недостаёт.","by":"machine"}
+{"id":"workings:w-check:why:ru","table":"workings","row":"w-check","column":"why","lang":"ru","text":"Пробел, найденный до публикации, дешевле найденного читателем.","by":"machine"}
+{"id":"workings:w-engine:how:ru","table":"workings","row":"w-engine","column":"how","lang":"ru","text":"Рисует идею как статью, а всю цепь — на одной странице.","by":"machine"}
+{"id":"workings:w-engine:why:ru","table":"workings","row":"w-engine","column":"why","lang":"ru","text":"Пробелы должны быть видны глазу.","by":"machine"}
+{"id":"workings:w-method:how:ru","table":"workings","row":"w-method","column":"how","lang":"ru","text":"Четыре вопроса, как отвечать на каждый и как проверить, что ответ хорош.","by":"machine"}
+{"id":"workings:w-method:why:ru","table":"workings","row":"w-method","column":"why","lang":"ru","text":"Чтобы метод можно было выучить по тексту, а не только побывав при его создании.","by":"machine"}
+{"id":"workings:w-self:how:ru","table":"workings","row":"w-self","column":"how","lang":"ru","text":"Идея, путь и устройство Сути записаны одной лишь Сутью.","by":"machine"}
+{"id":"workings:w-self:what:ru","table":"workings","row":"w-self","column":"what","lang":"ru","text":"Собственные данные этого репозитория","by":"machine"}
+{"id":"workings:w-self:why:ru","table":"workings","row":"w-self","column":"why","lang":"ru","text":"Метод, говорящий «зачем» и «как», должен уметь сказать это о себе; если не может — он неверен.","by":"machine"}
+{"id":"workings:w-spec:how:ru","table":"workings","row":"w-spec","column":"how","lang":"ru","text":"Называет таблицы, которые ведёт каждый проект: идея, вехи, устройство и его работа.","by":"machine"}
+{"id":"workings:w-spec:what:ru","table":"workings","row":"w-spec","column":"what","lang":"ru","text":"Спецификация ocoeco, раздел 11","by":"machine"}
+{"id":"workings:w-spec:why:ru","table":"workings","row":"w-spec","column":"why","lang":"ru","text":"Чтобы ответы можно было собирать и сравнивать между проектами.","by":"machine"}
