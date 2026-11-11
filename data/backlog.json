@@ -1,4 +1,4 @@
-{"id":"essence-check","title":"Checked before publishing","status":"open","note":"ocoeco check to report what a project's essence still lacks.","opened":"2026-11-10"}
+{"id":"essence-check","title":"Checked before publishing","status":"done","note":"ocoeco check says how many of the four are told and what is still to tell, before anything is published.","opened":"2026-11-10"}
 {"id":"essence-everywhere","title":"Every project tells its essence","status":"open","note":"Each project of the commons with its idea, path, workings and work.","opened":"2026-11-10"}
 {"id":"essence-format","title":"A language for it","status":"done","note":"ocoeco's specification, section 11: the idea, milestones and workings tables.","opened":"2026-11-10"}
 {"id":"essence-idea-drawn","title":"The idea drawn as an article","status":"done","note":"ocoeco-engine shows a project's idea as a piece of writing to read.","opened":"2026-11-10"}
